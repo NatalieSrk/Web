@@ -1,2 +1,1 @@
-# Web
-Testing web based applications
+# Testing web based applications
